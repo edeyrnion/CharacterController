@@ -4,7 +4,7 @@ This project is focused on camera collision resolving.
 
 ## Requirements
 
-Unity 2018.2 or higher
+Unity 2018.4 LTS
 
 ## How to run
 
